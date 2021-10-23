@@ -35,8 +35,7 @@ class DashboardPage extends StatelessWidget {
                             );
                           },
                           child: Text(
-
-                            "Admin"
+                            "Admin",
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,
