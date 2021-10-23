@@ -35,7 +35,7 @@ class DashboardPage extends StatelessWidget {
                             );
                           },
                           child: Text(
-                            "Admin",
+                            "Admin Panel Title",
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,
